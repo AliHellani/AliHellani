@@ -11,7 +11,7 @@
 - I'm open to collaboration on interesting projects. Feel free to reach out if you have any ideas!
   ## 📫 How to Reach Me :
 - Email: alisaadoun.hellani@gmail.com
-- LinkedIn: www.linkedin.com/in/alihellani-854024267
+- LinkedIn: www.linkedin.com/in/ali-hellani-854024267
   ## ⚡ Fun Fact :
 - I have a passion for learning new programming languages and always strive to deliver the best outcomes in my projects.
 - Football is more than just a game for me, it's a hobby I truly enjoy.
